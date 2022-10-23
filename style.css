@@ -1,0 +1,46 @@
+/* @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap"); */
+
+/*
+ .carousel {
+  width:740px;
+  height:480px;
+  justify-content: center;
+  margin: auto;      padding-top: 2%;
+  border-radius: 25px;
+  background-color: rgba(0,0,0,0);
+  overflow: hidden
+}
+*/
+ 
+
+
+  h1{
+color: rgb(255, 255, 255);
+margin-top: 7%;
+  }
+
+  p{
+    color: rgb(255, 255, 255);
+    margin-top: 2%;
+      }
+
+ 
+  h1,
+h2,
+h3,
+h4,
+p {
+  letter-spacing: var(--spacing);
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+  margin-top: 4%;
+  font-size: x-large;
+}
